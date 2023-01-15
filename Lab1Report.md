@@ -9,6 +9,8 @@
 3. You should be able to open a window such as the one pictured below:
 ![1_12_23vscodescreenshot](https://user-images.githubusercontent.com/110694499/212184347-777f77f5-911f-422a-a305-7479542c1195.PNG)
 
+
+
 > Step 2: Remotely Connecting
 * The following instructions will show how to use VScode/terminal to connect to a remote server over the internet
 
@@ -40,6 +42,7 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 Sun Jan 02, 2022 11:28pm - Prepping cs15lwi23
 ```
 Your terminal is now officially connected to a computer in the CSE basement. Your computer is called the "client" and the cse basement computer is known as the "server".
+
 
 
 > Step 3: Trying Some Commands
