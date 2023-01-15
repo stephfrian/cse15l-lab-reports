@@ -41,6 +41,8 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 
 Sun Jan 02, 2022 11:28pm - Prepping cs15lwi23
 ```
+As a picture:
+![Image](remotelyconnectingpicture.png)
 Your terminal is now officially connected to a computer in the CSE basement. Your computer is called the "client" and the cse basement computer is known as the "server".
 
 
