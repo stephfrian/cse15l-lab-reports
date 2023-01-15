@@ -41,7 +41,7 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 
 Sun Jan 02, 2022 11:28pm - Prepping cs15lwi23
 ```
-As a picture:
+As a picture (specific to you, Stephanie):
 
 ![Image](Picture2.png)
 
