@@ -60,6 +60,12 @@ Your terminal is now officially connected to a computer in the CSE basement. You
     - ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group members’ username
     - cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
     - cat /home/linux/ieng6/cs15lwi23/public/hello.txt
+ 
+ Example:
+ 
+ ![Image](Picture3.png)
+ 
+ 
 2. Type the following in your terminal to log out of the remote server:
   * Ctrl-D
   * Run the command exit
