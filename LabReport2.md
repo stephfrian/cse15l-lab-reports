@@ -60,5 +60,17 @@ public void testReversed() {
 ```
 ![testReversed_PASSED_TEST](https://user-images.githubusercontent.com/110694499/215296021-a1021497-8a28-46d4-b86d-aaf49566fc5c.jpg)
 
+Bug FIXED:
+```
+static int[] reversed(int[] arr) {
+  int[] newArray = new int[arr.length];
+  for(int i = 0; i < arr.length; i++) {
+    newArray[arr.length-i-1] = arr[i];
+  }
+  
+  return newArray;
+}
+```
+
 
 
