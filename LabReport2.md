@@ -3,18 +3,19 @@ Screenshot of StringServer.java:
 
 Two examples of using /add-message:
 ![add-message_image1](https://user-images.githubusercontent.com/110694499/215292014-239aacab-3759-487d-910e-fee9b10175e5.jpg)
-* In the StringServer.java file, there are many methods being called, such as:
-> java.net.URI.getPath() - No arguments; Returns the decoded path component of this URI, or null if the path is undefined
-> equals() - Takes an argument called anObject: The object to compare the String in getPath() against
-> format() - Takes a string argument and outputs a formatted string
-> handleRequest() - Takes any URI
-> println() - Takes a string argument, prints it, then terminates the line
-> contains() - Takes a sequence of char values to search for in a string, and outputs true/false
-> java.net.URI.getQuery() - Returns the decoded query component of this URI.
-> java.lang.String.split() - Takes a string argument, then splits this string around matches of the given regular expression.
-> java.util.ArrayList.add() - Takes a String argument and appends the string to the end of the ArrayList
-> java.util.ArrayList.get() - Takes an integer index and returns the element at the specified index of the ArrayList
-> java.util.ArrayList.size() - No arguments; returns the number of valid elements in the ArrayList
+
+## In the StringServer.java file, there are many methods being called, such as:
+1. java.net.URI.getPath() - No arguments; Returns the decoded path component of this URI, or null if the path is undefined
+2. equals() - Takes an argument called anObject: The object to compare the String in getPath() against
+3. format() - Takes a string argument and outputs a formatted string
+4. handleRequest() - Takes any URI
+5. println() - Takes a string argument, prints it, then terminates the line
+6. contains() - Takes a sequence of char values to search for in a string, and outputs true/false
+7. java.net.URI.getQuery() - Returns the decoded query component of this URI.
+8. java.lang.String.split() - Takes a string argument, then splits this string around matches of the given regular expression.
+9. java.util.ArrayList.add() - Takes a String argument and appends the string to the end of the ArrayList
+10. java.util.ArrayList.get() - Takes an integer index and returns the element at the specified index of the ArrayList
+11. java.util.ArrayList.size() - No arguments; returns the number of valid elements in the ArrayList
 
 
 
