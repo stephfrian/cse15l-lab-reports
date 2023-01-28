@@ -47,6 +47,8 @@ public void testReversed2() {
   assertArrayEquals(new int[]{3, 2, 1}, ArrayExamples.reversed(input2));
 }
 ```
+![testReversed2_FAILED_TEST](https://user-images.githubusercontent.com/110694499/215296016-50ab8535-be19-4845-b8cf-94f07bf80a17.jpg)
+
 
 A *non* failure-inducing input:
 ```
@@ -56,5 +58,7 @@ public void testReversed() {
   assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
 }
 ```
+![testReversed_PASSED_TEST](https://user-images.githubusercontent.com/110694499/215296021-a1021497-8a28-46d4-b86d-aaf49566fc5c.jpg)
+
 
 
