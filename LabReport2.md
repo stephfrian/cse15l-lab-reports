@@ -1,7 +1,9 @@
 Screenshot of StringServer.java:
+
 ![StringServer_implementation_screenshot](https://user-images.githubusercontent.com/110694499/215291425-b5b759cd-86b4-49e8-bd02-eadeae2456c2.jpg)
 
 Two examples of using /add-message:
+
 ![add-message_image1](https://user-images.githubusercontent.com/110694499/215292014-239aacab-3759-487d-910e-fee9b10175e5.jpg)
 
 ## In the StringServer.java file, there are many methods being called, such as:
