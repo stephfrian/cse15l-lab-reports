@@ -71,6 +71,7 @@ static int[] reversed(int[] arr) {
   return newArray;
 }
 ```
-
+This results in a passed test for the same *non* failure-inducing input as aforementioned:
+![testReversed2_PASSED](https://user-images.githubusercontent.com/110694499/215296385-dc0301c1-0897-43a5-bdd5-c1827c6b8421.jpg)
 
 
