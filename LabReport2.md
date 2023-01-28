@@ -71,7 +71,9 @@ static int[] reversed(int[] arr) {
   return newArray;
 }
 ```
-This results in a passed test for the same *non* failure-inducing input as aforementioned:
+The reason why there was a bug that resulted in the symptom shown above was that we were updating the *old* array, with reversed elements rather than the *new* one and were also returning the old array. 
+
+These changes results in a passed test for the same *non* failure-inducing input as aforementioned:
 ![testReversed2_PASSED](https://user-images.githubusercontent.com/110694499/215296385-dc0301c1-0897-43a5-bdd5-c1827c6b8421.jpg)
 
 
