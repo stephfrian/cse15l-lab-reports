@@ -25,4 +25,35 @@ In the StringServer.java file, there are many methods being called, such as:
 
 ![add-message_image2](https://user-images.githubusercontent.com/110694499/215292016-c12680a5-a4d6-4b83-abf9-759b3a018abb.jpg)
 
-# Part 2
+# Part 2: Bug Analysis
+
+## We will be focusing on fixing the reversed() method found in ArrayExamples.java
+...
+static int[] reversed(int[] arr) {
+  int[] newArray = new int[arr.length];
+  for(int i = 0; i < arr.length; i += 1) {
+    arr[i] = newArray[arr.length - i - 1];
+  }
+  return arr;
+}
+...
+
+A failure-inducing input:
+...
+@Test
+public void testReversed2() {
+  int[]input2 = {1, 2, 3};
+  assertArrayEquals(new int[]{3, 2, 1}, ArrayExamples.reversed(input2));
+}
+...
+
+A *non* failure-inducing input:
+...
+@Test
+public void testReversed() {
+  int[] input1 = { };
+  assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
+}
+...
+
+
