@@ -28,6 +28,7 @@ In the StringServer.java file, there are many methods being called, such as:
 # Part 2: Bug Analysis
 
 ## We will be focusing on fixing the reversed() method found in ArrayExamples.java
+The original code, as provided in GitHub:
 ```
 static int[] reversed(int[] arr) {
   int[] newArray = new int[arr.length];
