@@ -1,12 +1,14 @@
-# Screenshot of StringServer.java
+#Part 1
+
+## Screenshot of StringServer.java
 
 ![StringServer_implementation_screenshot](https://user-images.githubusercontent.com/110694499/215291425-b5b759cd-86b4-49e8-bd02-eadeae2456c2.jpg)
 
-# Using /add-message >> Example 1
+## Using /add-message >> Example 1
 
 ![add-message_image1](https://user-images.githubusercontent.com/110694499/215292014-239aacab-3759-487d-910e-fee9b10175e5.jpg)
 
-## In the StringServer.java file, there are many methods being called, such as:
+In the StringServer.java file, there are many methods being called, such as:
 1. java.net.URI.getPath() - No arguments; Returns the decoded path component of this URI, or null if the path is undefined
 2. equals() - Takes an argument called anObject: The object to compare the String in getPath() against
 3. format() - Takes a string argument and outputs a formatted string
@@ -22,3 +24,5 @@
 # Using /add-message >> Example 2
 
 ![add-message_image2](https://user-images.githubusercontent.com/110694499/215292016-c12680a5-a4d6-4b83-abf9-759b3a018abb.jpg)
+
+#Part 2
