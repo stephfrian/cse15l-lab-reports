@@ -28,7 +28,7 @@ In the StringServer.java file, there are many methods being called, such as:
 # Part 2: Bug Analysis
 
 ## We will be focusing on fixing the reversed() method found in ArrayExamples.java
-...
+```
 static int[] reversed(int[] arr) {
   int[] newArray = new int[arr.length];
   for(int i = 0; i < arr.length; i += 1) {
@@ -36,24 +36,24 @@ static int[] reversed(int[] arr) {
   }
   return arr;
 }
-...
+```
 
 A failure-inducing input:
-...
+```
 @Test
 public void testReversed2() {
   int[]input2 = {1, 2, 3};
   assertArrayEquals(new int[]{3, 2, 1}, ArrayExamples.reversed(input2));
 }
-...
+```
 
 A *non* failure-inducing input:
-...
+```
 @Test
 public void testReversed() {
   int[] input1 = { };
   assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
 }
-...
+```
 
 
