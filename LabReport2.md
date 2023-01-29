@@ -21,7 +21,7 @@ In the StringServer.java file, there are many methods being called, such as:
 10. java.util.ArrayList.get() - Takes an integer index and returns the element at the specified index of the ArrayList
 11. java.util.ArrayList.size() - No arguments; returns the number of valid elements in the ArrayList
 
-# Using /add-message >> Example 2
+## Using /add-message >> Example 2
 
 ![add-message_image2](https://user-images.githubusercontent.com/110694499/215292016-c12680a5-a4d6-4b83-abf9-759b3a018abb.jpg)
 
