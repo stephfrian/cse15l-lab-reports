@@ -25,6 +25,8 @@ In the StringServer.java file, there are many methods being called, such as:
 
 ![add-message_image2](https://user-images.githubusercontent.com/110694499/215292016-c12680a5-a4d6-4b83-abf9-759b3a018abb.jpg)
 
+
+
 # Part 2: Bug Analysis
 
 ## We will be focusing on fixing the reversed() method found in ArrayExamples.java
