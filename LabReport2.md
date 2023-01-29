@@ -1,4 +1,4 @@
-# Part 1
+# Part 1: Creating a Web Server Called StringServer
 
 ## Screenshot of StringServer.java
 
@@ -78,7 +78,7 @@ The reason why there was a bug that resulted in the symptom shown above was that
 These changes results in a passed test for the same *non* failure-inducing input as aforementioned:
 ![testReversed2_PASSED](https://user-images.githubusercontent.com/110694499/215296385-dc0301c1-0897-43a5-bdd5-c1827c6b8421.jpg)
 
-# Part 3
+# Part 3: What I Learned
 
 In lab 2, I learned how to clone repositories using Github desktop and how to implement a program on Visual Studio Code that takes a URL string as an input and responds with the text of a web page. I then learned how to build and run the server on my local computer. 
 
