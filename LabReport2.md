@@ -7,6 +7,7 @@
 ## Using /add-message >> Example 1
 
 ![add-message_image1](https://user-images.githubusercontent.com/110694499/215292014-239aacab-3759-487d-910e-fee9b10175e5.jpg)
+![Terminal_message1](https://user-images.githubusercontent.com/110694499/215642147-0856048c-e53e-4266-ab38-5f3a674c0d53.jpg)
 
 In the StringServer.java file, the method being called is: public String handleRequest(URI url);
 
@@ -27,6 +28,7 @@ The relevant arguments are:
 ## Using /add-message >> Example 2
 
 ![add-message_image2](https://user-images.githubusercontent.com/110694499/215292016-c12680a5-a4d6-4b83-abf9-759b3a018abb.jpg)
+![Terminal_message2](https://user-images.githubusercontent.com/110694499/215642168-90cf07a2-7979-4ace-8298-e1ff76fe491d.jpg)
 
 
 
