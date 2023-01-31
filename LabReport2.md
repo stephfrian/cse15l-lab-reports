@@ -10,6 +10,8 @@
 
 In the StringServer.java file, the method being called is: public String handleRequest(URI url);
 
+The relevant arguments are:
+
 1. java.net.URI.getPath() - No arguments; Returns the decoded path component of this URI, or null if the path is undefined
 2. equals() - Takes an argument called anObject: The object to compare the String in getPath() against
 3. format() - Takes a string argument and outputs a formatted string
