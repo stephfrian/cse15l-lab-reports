@@ -9,7 +9,7 @@
 ![add-message_image1](https://user-images.githubusercontent.com/110694499/215292014-239aacab-3759-487d-910e-fee9b10175e5.jpg)
 ![Terminal_message1](https://user-images.githubusercontent.com/110694499/215642147-0856048c-e53e-4266-ab38-5f3a674c0d53.jpg)
 
-In the StringServer.java file, the method being called is: public String handleRequest(URI url);
+In the StringServer.java file, the method being called is: public String handleRequest(URI url)
 
 The relevant arguments are:
 
@@ -25,12 +25,35 @@ The relevant arguments are:
 10. java.util.ArrayList.get() - Takes an integer index and returns the element at the specified index of the ArrayList
 11. java.util.ArrayList.size() - No arguments; returns the number of valid elements in the ArrayList
 
+The string "s" is the string that the user inputs into the URL to be printed on the server, while the string "s" helps to concatenate the individual strings together (with a newline inbetween each string).
+
+As we can see from the image of the terminal (shown above), the ArrayList called stringArray got updated with the first string input provided by the user, which is "Hello!"
+
 ## Using /add-message >> Example 2
 
 ![add-message_image2](https://user-images.githubusercontent.com/110694499/215292016-c12680a5-a4d6-4b83-abf9-759b3a018abb.jpg)
 ![Terminal_message2](https://user-images.githubusercontent.com/110694499/215642168-90cf07a2-7979-4ace-8298-e1ff76fe491d.jpg)
 
+In the StringServer.java file, the method being called is: public String handleRequest(URI url)
 
+
+The relevant arguments are:
+
+1. java.net.URI.getPath() - No arguments; Returns the decoded path component of this URI, or null if the path is undefined
+2. equals() - Takes an argument called anObject: The object to compare the String in getPath() against
+3. format() - Takes a string argument and outputs a formatted string
+4. handleRequest() - Takes any URI
+5. println() - Takes a string argument, prints it, then terminates the line
+6. contains() - Takes a sequence of char values to search for in a string, and outputs true/false
+7. java.net.URI.getQuery() - Returns the decoded query component of this URI.
+8. java.lang.String.split() - Takes a string argument, then splits this string around matches of the given regular expression.
+9. java.util.ArrayList.add() - Takes a String argument and appends the string to the end of the ArrayList
+10. java.util.ArrayList.get() - Takes an integer index and returns the element at the specified index of the ArrayList
+11. java.util.ArrayList.size() - No arguments; returns the number of valid elements in the ArrayList
+
+The string "s" is the string that the user inputs into the URL to be printed on the server, while the string "s" helps to concatenate the individual strings together (with a newline inbetween each string).
+
+As we can see from the image of the terminal (shown above), the ArrayList called stringArray got updated with a second string input provided by the user, which is "This is showing a single string getting added to by incoming requests." There are now two elements in the ArrayList, which increments in size whenever there is a new input message in the URL after /add-message?s=.
 
 # Part 2: Bug Analysis
 
