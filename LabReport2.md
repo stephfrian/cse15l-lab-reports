@@ -8,7 +8,8 @@
 
 ![add-message_image1](https://user-images.githubusercontent.com/110694499/215292014-239aacab-3759-487d-910e-fee9b10175e5.jpg)
 
-In the StringServer.java file, there are many methods being called, such as:
+In the StringServer.java file, the method being called is: public String handleRequest(URI url);
+
 1. java.net.URI.getPath() - No arguments; Returns the decoded path component of this URI, or null if the path is undefined
 2. equals() - Takes an argument called anObject: The object to compare the String in getPath() against
 3. format() - Takes a string argument and outputs a formatted string
