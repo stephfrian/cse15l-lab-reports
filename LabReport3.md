@@ -49,7 +49,7 @@ The command
 ```
 find -iname handrisrael.txt
 ```
-Yields
+yields
 ```
 ./travel_guides/berlitz1/HandRIsrael.txt
 ```
