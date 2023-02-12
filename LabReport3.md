@@ -1,7 +1,7 @@
 # Some Command Options for 'find'
 Source: ChatGPT https://chat.openai.com/chat
 
-
+---
 ## Option 1: -name
 *Description: Searches for files and directories with a specified name. 
 For example, to search for files named "ch7.txt" in the current directory, you can use the command find . -name "ch7.txt".*
@@ -28,7 +28,7 @@ yields
 ./non-fiction/OUP/Castro/chM.txt
 ```
 **This command searches for the chM.txt file in the directory written_2 and prints out its path. It's useful for identifying the path of any file.**
-
+---
 ## Option 2: -iname
 *Description: Same as -name, but case-insensitive.*
 
@@ -55,6 +55,7 @@ yields
 ```
 **This command finds a file (case-insensitive) within the directory and outputs its path. It's useful for identifying the path of any file without having to worry about exact spelling of the file.**
 
+---
 ## Option 3: -name -print
 *Description: Display the names of the files and directories that match the search criteria. For example, find . -name "*.txt" -print.*
 
@@ -124,6 +125,7 @@ yields
 ```
 **This command is useful for printing the path of any file.**
 
+---
 ## Option 4: -name -ls
 *Description: Display information about the files and directories in the long format, similar to the ls -l command.*
 
