@@ -1,4 +1,6 @@
 # Some Command Options for 'find'
+by Stephanie Frianeza
+
 Source: ChatGPT https://chat.openai.com/chat
 
 ---
