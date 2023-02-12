@@ -45,7 +45,7 @@ Yields
 ```
 ./travel_guides/berlitz1/HandRIsrael.txt
 ```
-## Option 3: -print
+## Option 3: -name -print
 
 - Example 1:
 
