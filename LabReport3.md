@@ -16,7 +16,7 @@ yields
 ```
 ./travel_guides/berlitz2/Algarve-History.txt
 ```
-**This command searches for the Algarve-History.txt file in the directory written_2 and prints out its path. It's useful for identifying the path of any file.
+**This command searches for the Algarve-History.txt file in the directory written_2 and prints out its path. It's useful for identifying the path of any file.**
 - Example 2:
 
 The command
@@ -27,7 +27,7 @@ yields
 ```
 ./non-fiction/OUP/Castro/chM.txt
 ```
-**This command searches for the chM.txt file in the directory written_2 and prints out its path. It's useful for identifying the path of any file.
+**This command searches for the chM.txt file in the directory written_2 and prints out its path. It's useful for identifying the path of any file.**
 
 ## Option 2: -iname
 Description: Same as -name, but case-insensitive.
@@ -42,7 +42,7 @@ yields
 ```
 ./non-fiction/OUP/Castro/chM.txt
 ```
-**This command finds a file (case-insensitive) within the directory and outputs its path. It's useful for identifying the path of any file without having to worry about exact spelling of the file.
+**This command finds a file (case-insensitive) within the directory and outputs its path. It's useful for identifying the path of any file without having to worry about exact spelling of the file.**
 - Example 2:
 
 The command
@@ -53,7 +53,7 @@ yields
 ```
 ./travel_guides/berlitz1/HandRIsrael.txt
 ```
-**This command finds a file (case-insensitive) within the directory and outputs its path. It's useful for identifying the path of any file without having to worry about exact spelling of the file.
+**This command finds a file (case-insensitive) within the directory and outputs its path. It's useful for identifying the path of any file without having to worry about exact spelling of the file.**
 
 ## Option 3: -name -print
 Description: Display the names of the files and directories that match the search criteria. For example, find . -name "*.txt" -print.
@@ -111,7 +111,7 @@ yields
 ./non-fiction/OUP/Rybczynski/ch2.txt
 ./non-fiction/OUP/Rybczynski/ch3.txt
 ```
-**All text files with the prefix "ch" in the directory are outputted with their paths.
+**All text files with the prefix "ch" in the directory are outputted with their paths.**
 - Example 2:
 
 The command
@@ -122,7 +122,7 @@ yields
 ```
 ./travel_guides/berlitz1/HandRHawaii.txt
 ```
-**This command is useful for printing the path of any file.
+**This command is useful for printing the path of any file.**
 
 ## Option 4: -name -ls
 Description: Display information about the files and directories in the long format, similar to the ls -l command.
@@ -172,7 +172,7 @@ b  6 13:14 ./non-fiction/OUP/Kauffman/ch4.txt
 204832952   44 -rwxr-x---   1 cs15lwi23agp ieng6_cs15lwi23    38052 Feb  6 13:14 ./non-fiction/OUP/Rybczynski/ch2.txt
 204832953   56 -rwxr-x---   1 cs15lwi23agp ieng6_cs15lwi23    52179 Feb  6 13:14 ./non-fiction/OUP/Rybczynski/ch3.txt
 ```
-**This command printed out information in the long format for all .txt files with the prefix "ch" inside the directory.
+**This command printed out information in the long format for all .txt files with the prefix "ch" inside the directory.**
 - Example 2:
 
 The command
@@ -204,4 +204,4 @@ yields
 204832990   40 -rwxr-x---   1 cs15lwi23agp ieng6_cs15lwi23    35725 Feb  6 13:14 ./travel_guides/berlitz1/HistoryMalaysia.txt
 204832991   16 -rwxr-x---   1 cs15lwi23agp ieng6_cs15lwi23    13730 Feb  6 13:14 ./travel_guides/berlitz1/HistoryMallorca.txt
 ```
-**This command printed out information in the long format of all .txt files in the directory starting with the word "History".
+**This command printed out information in the long format of all .txt files in the directory starting with the word "History".**
