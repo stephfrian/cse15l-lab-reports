@@ -3,6 +3,8 @@ Source: ChatGPT https://chat.openai.com/chat
 
 
 ## Option 1: -name
+Description: Search for files and directories with a specified name. 
+For example, to search for files named "test.txt" in the current directory, you can use the command find . -name "test.txt".
 
 - Example 1:
 
@@ -25,6 +27,7 @@ yields
 ./non-fiction/OUP/Castro/chM.txt
 ```
 ## Option 2: -iname
+Description: Same as -name, but case-insensitive.
 
 - Example 1:
 
@@ -48,6 +51,7 @@ Yields
 ./travel_guides/berlitz1/HandRIsrael.txt
 ```
 ## Option 3: -name -print
+Description: Display the names of the files and directories that match the search criteria. For example, find . -name "*.txt" -print.
 
 - Example 1:
 
@@ -113,6 +117,7 @@ yields
 ./travel_guides/berlitz1/HandRHawaii.txt
 ```
 ## Option 4: -name -ls
+Description: Display information about the files and directories in the long format, similar to the ls -l command.
 
 - Example 1:
 
