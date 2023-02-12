@@ -28,7 +28,9 @@ yields
 ./non-fiction/OUP/Castro/chM.txt
 ```
 **This command searches for the chM.txt file in the directory written_2 and prints out its path. It's useful for identifying the path of any file.**
+
 ---
+
 ## Option 2: -iname
 *Description: Same as -name, but case-insensitive.*
 
