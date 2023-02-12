@@ -1,4 +1,6 @@
 # Command Options for 'find'
+Source: ChatGPT https://chat.openai.com/chat
+
 
 ## Option 1: -name
 
