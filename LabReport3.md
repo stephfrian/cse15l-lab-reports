@@ -6,7 +6,7 @@ Source: ChatGPT https://chat.openai.com/chat
 *Description: Searches for files and directories with a specified name. 
 For example, to search for files named "ch7.txt" in the current directory, you can use the command find . -name "ch7.txt".*
 
-- Example 1:
+> Example 1:
 
 The command
 ```
@@ -17,7 +17,7 @@ yields
 ./travel_guides/berlitz2/Algarve-History.txt
 ```
 **This command searches for the Algarve-History.txt file in the directory written_2 and prints out its path. It's useful for identifying the path of any file.**
-- Example 2:
+> Example 2:
 
 The command
 ```
@@ -34,7 +34,7 @@ yields
 ## Option 2: -iname
 *Description: Same as -name, but case-insensitive.*
 
-- Example 1:
+> Example 1:
 
 The command
 ```
@@ -45,7 +45,7 @@ yields
 ./non-fiction/OUP/Castro/chM.txt
 ```
 **This command finds a file (case-insensitive) within the directory and outputs its path. It's useful for identifying the path of any file without having to worry about exact spelling of the file.**
-- Example 2:
+> Example 2:
 
 The command
 ```
@@ -61,7 +61,7 @@ yields
 ## Option 3: -name -print
 *Description: Display the names of the files and directories that match the search criteria. For example, find . -name "*.txt" -print.*
 
-- Example 1:
+> Example 1:
 
 The command
 ```
@@ -115,7 +115,7 @@ yields
 ./non-fiction/OUP/Rybczynski/ch3.txt
 ```
 **All text files with the prefix "ch" in the directory are outputted with their paths.**
-- Example 2:
+> Example 2:
 
 The command
 ```
@@ -131,7 +131,7 @@ yields
 ## Option 4: -name -ls
 *Description: Display information about the files and directories in the long format, similar to the ls -l command.*
 
-- Example 1:
+> Example 1:
 
 The command
 ```
@@ -177,7 +177,7 @@ b  6 13:14 ./non-fiction/OUP/Kauffman/ch4.txt
 204832953   56 -rwxr-x---   1 cs15lwi23agp ieng6_cs15lwi23    52179 Feb  6 13:14 ./non-fiction/OUP/Rybczynski/ch3.txt
 ```
 **This command printed out information in the long format for all .txt files with the prefix "ch" inside the directory.**
-- Example 2:
+> Example 2:
 
 The command
 ```
