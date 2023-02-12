@@ -1,4 +1,4 @@
-# Command Options for 'find'
+# Some Command Options for 'find'
 Source: ChatGPT https://chat.openai.com/chat
 
 
