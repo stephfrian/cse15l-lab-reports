@@ -30,6 +30,8 @@ I didn't have the git clone command saved in my history, so I manually typed out
   
 Keys pressed/Typed: `javac Te<tab>` `<enter>`
 
+I typed `javac Te<tab>` because I didn't have the javac command saved in my search history. I used the tab key after typing "Te" to autofill the TestListExamples.java file. Then I pressed "enter" to run the tests and demonstrate they fail.
+  
 ## Step 7: Editing the Code File to Fix the Failing Test
 ![pasted image 0 (3)](https://user-images.githubusercontent.com/110694499/221438289-d3db8456-9473-48a2-893d-2cc62296a108.png)
 ![pasted image 0 (4)](https://user-images.githubusercontent.com/110694499/221438294-5f0d0c8f-42b5-405e-bef1-8fa66192655e.png)
