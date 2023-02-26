@@ -15,19 +15,23 @@ Instructions:
 ![pasted image 0](https://user-images.githubusercontent.com/110694499/221438108-5bf3c1fa-f031-4677-9d94-f80f8f70d0df.png)
 
 Keys pressed: `<up><enter>`
-  The 'ssh cs15lwi23agp@ieng6.ucsd.edu' was one up in the search history so I used the up arrow once to access it, then pressed enter to log in. I didn't have to type in my password because I generated SSH Keys for ieng6.
+
+The 'ssh cs15lwi23agp@ieng6.ucsd.edu' was one up in the search history so I used the up arrow once to access it, then pressed enter to log in. I didn't have to type in my password because I generated SSH Keys for ieng6.
 
 ## Step 5: Cloning Fork of the Repository From GitHub
 ![pasted image 0 (1)](https://user-images.githubusercontent.com/110694499/221438126-6b271d7f-88d3-403d-a254-16f878c29071.png)
 
 Keys pressed/Typed: Typed `git clone git@github.com:stephfrian/lab7.git`, `<enter>`, `cd la<tab>`
+
 I didn't have the git clone command saved in my history, so I manually typed out the aforementioned command, copying and pasting the .git file from GitHub forked repository. I then cd'ed into the lab 7 directory using the <tab> key to autofill the name of the directory.
 
 ## Step 6: Running the Tests, Demonstrating They Fail
 ![pasted image 0 (2)](https://user-images.githubusercontent.com/110694499/221438207-f68b4bf9-df62-4bcc-97c6-98402a12a1c6.png)
   
- Keys pressed/Typed: `javac Te<tab>` `nano Li<tab>`
+Keys pressed/Typed: `javac Te<tab>` `<enter>`
 
 ## Step 7: Editing the Code File to Fix the Failing Test
 ![pasted image 0 (3)](https://user-images.githubusercontent.com/110694499/221438289-d3db8456-9473-48a2-893d-2cc62296a108.png)
 ![pasted image 0 (4)](https://user-images.githubusercontent.com/110694499/221438294-5f0d0c8f-42b5-405e-bef1-8fa66192655e.png)
+  
+ Keys pressed: `nano Li<tab>`
