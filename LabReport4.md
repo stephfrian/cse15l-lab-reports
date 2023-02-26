@@ -1,4 +1,5 @@
 # Lab Report 4: Competition Tasks
+By Stephanie Frianeza
 
 Instructions:
 1. Setup Delete any existing forks of the repository you have on your account
