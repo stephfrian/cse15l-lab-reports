@@ -18,3 +18,6 @@ Instructions:
 ![pasted image 0 (1)](https://user-images.githubusercontent.com/110694499/221438126-6b271d7f-88d3-403d-a254-16f878c29071.png)
 
 ## Step 6: Running the Tests, Demonstrating They Fail
+![pasted image 0 (2)](https://user-images.githubusercontent.com/110694499/221438207-f68b4bf9-df62-4bcc-97c6-98402a12a1c6.png)
+
+## Step 7: Editing the Code File to Fix the Failing Test
