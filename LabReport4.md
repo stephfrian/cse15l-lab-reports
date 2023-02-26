@@ -21,3 +21,5 @@ Instructions:
 ![pasted image 0 (2)](https://user-images.githubusercontent.com/110694499/221438207-f68b4bf9-df62-4bcc-97c6-98402a12a1c6.png)
 
 ## Step 7: Editing the Code File to Fix the Failing Test
+![pasted image 0 (3)](https://user-images.githubusercontent.com/110694499/221438289-d3db8456-9473-48a2-893d-2cc62296a108.png)
+![pasted image 0 (4)](https://user-images.githubusercontent.com/110694499/221438294-5f0d0c8f-42b5-405e-bef1-8fa66192655e.png)
