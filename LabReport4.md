@@ -26,7 +26,7 @@ I didn't have the git clone command saved in my history, so I manually typed out
 ## Step 6: Running the Tests, Demonstrating They Fail
 ![pasted image 0 (2)](https://user-images.githubusercontent.com/110694499/221438207-f68b4bf9-df62-4bcc-97c6-98402a12a1c6.png)
   
- Keys pressed/Typed: `javac Te<tab>``nano Li<tab>`
+ Keys pressed/Typed: `javac Te<tab>` `nano Li<tab>`
 
 ## Step 7: Editing the Code File to Fix the Failing Test
 ![pasted image 0 (3)](https://user-images.githubusercontent.com/110694499/221438289-d3db8456-9473-48a2-893d-2cc62296a108.png)
