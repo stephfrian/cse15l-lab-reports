@@ -13,6 +13,9 @@ Instructions:
 
 ## Step 4: Logging Into ieng6
 ![pasted image 0](https://user-images.githubusercontent.com/110694499/221438108-5bf3c1fa-f031-4677-9d94-f80f8f70d0df.png)
+Keys pressed:
+  1. <up><enter>
+  The 'ssh cs15lwi23agp@ieng6.ucsd.edu' was one up in the search history so I used the up arrow once to access it, then pressed enter to log in. I didn't have to type in my password because I generated SSH Keys for ieng6.
 
 ## Step 5: Cloning Fork of the Repository From GitHub
 ![pasted image 0 (1)](https://user-images.githubusercontent.com/110694499/221438126-6b271d7f-88d3-403d-a254-16f878c29071.png)
