@@ -20,6 +20,9 @@ Keys pressed: `<up><enter>`
 ## Step 5: Cloning Fork of the Repository From GitHub
 ![pasted image 0 (1)](https://user-images.githubusercontent.com/110694499/221438126-6b271d7f-88d3-403d-a254-16f878c29071.png)
 
+Keys pressed/Typed: Typed `git clone git@github.com:stephfrian/lab7.git`, `<enter>`, `cd la<tab>`
+I didn't have the git clone command saved in my history, so I manually typed out the aforementioned command, copying and pasting the .git file from GitHub forked repository. I then cd'ed into the lab 7 directory using the <tab> key to autofill the name of the directory.
+
 ## Step 6: Running the Tests, Demonstrating They Fail
 ![pasted image 0 (2)](https://user-images.githubusercontent.com/110694499/221438207-f68b4bf9-df62-4bcc-97c6-98402a12a1c6.png)
 
