@@ -15,7 +15,7 @@ Competition Instructions:
 ## Step 4: Logging Into ieng6
 ![pasted image 0](https://user-images.githubusercontent.com/110694499/221438108-5bf3c1fa-f031-4677-9d94-f80f8f70d0df.png)
 
-Keys pressed: `<up><enter>`
+Keys pressed/Typed: `<up><enter>`
 
 The 'ssh cs15lwi23agp@ieng6.ucsd.edu' was one up in the search history so I used the up arrow once to access it, then pressed enter to log in. I didn't have to type in my password because I generated SSH Keys for ieng6.
 
@@ -37,7 +37,7 @@ I typed `javac Te<tab>` because I didn't have the javac command saved in my sear
 ![pasted image 0 (3)](https://user-images.githubusercontent.com/110694499/221438289-d3db8456-9473-48a2-893d-2cc62296a108.png)
 ![pasted image 0 (4)](https://user-images.githubusercontent.com/110694499/221438294-5f0d0c8f-42b5-405e-bef1-8fa66192655e.png)
   
- Keys pressed: `nano Li<tab>.java`, `<down>` 42 times, `<right>` 12 times, `<backspace>`, Type `2`, `<Ctrl><O>`, `<enter>`, `<Ctrl><X>`
+ Keys pressed/Type: `nano Li<tab>.java`, `<down>` 42 times, `<right>` 12 times, `<backspace>`, Type `2`, `<Ctrl><O>`, `<enter>`, `<Ctrl><X>`
   
  After using the nano command, I made one edit to the .java file: changing index1 += 1 to index2 += 1. Then I saved this edit to the file and exited the nano window
   
@@ -45,13 +45,13 @@ I typed `javac Te<tab>` because I didn't have the javac command saved in my sear
   ![Screenshot 2023-02-27 181718](https://user-images.githubusercontent.com/110694499/221736137-7686e7e3-64aa-4b88-9715-04a25402dc5d.jpg)
  
 
-Keys pressed: `<Ctrl><R>`,`javac - <enter>`, `<Ctrl><R>`, `java - <enter>`
+Keys pressed/Typed: `<Ctrl><R>`,`javac - <enter>`, `<Ctrl><R>`, `java - <enter>`
 
  I used the reverse-i-search command <Ctrl><R> to search through my command history for the javac command that compiles my tester file. Then I used the same command to search for the javac command that runs my tester file. 
   
   ## Step 9: Committing and Pushing the Resulting Change to My Github Account 
 ![Screenshot 2023-02-27 182902](https://user-images.githubusercontent.com/110694499/221738031-5382e04b-896b-4879-826d-e38342405dea.jpg)
   
-  Keys pressed: `git add ListExamples.java`, `git commit -m "Updated"`, `git push`
+  Keys pressed/Typed: `git add ListExamples.java`, `git commit -m "Updated"`, `git push`
   
   I typed out the above commands (in order) within the terminal to commit and push the edits to ListExamples.java in my GitHub repository.
