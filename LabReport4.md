@@ -39,7 +39,7 @@ I typed `javac Te<tab>` because I didn't have the javac command saved in my sear
   
  Keys pressed/Type: `nano Li<tab>.java`, `<down>` 42 times, `<right>` 12 times, `<backspace>`, Type `2`, `<Ctrl><O>`, `<enter>`, `<Ctrl><X>`
   
- After using the nano command, I made one edit to the .java file: changing index1 += 1 to index2 += 1. Then I saved this edit to the file and exited the nano window
+ After using the nano command, I made one edit to the .java file: changing index1 += 1 to index2 += 1. Then I saved this edit to the file and exited the nano window.
   
  ## Step 8: Running the Tests, Demonstrating That They Succeed
   ![Screenshot 2023-02-27 181718](https://user-images.githubusercontent.com/110694499/221736137-7686e7e3-64aa-4b88-9715-04a25402dc5d.jpg)
