@@ -37,10 +37,11 @@ I typed `javac Te<tab>` because I didn't have the javac command saved in my sear
 ![pasted image 0 (3)](https://user-images.githubusercontent.com/110694499/221438289-d3db8456-9473-48a2-893d-2cc62296a108.png)
 ![pasted image 0 (4)](https://user-images.githubusercontent.com/110694499/221438294-5f0d0c8f-42b5-405e-bef1-8fa66192655e.png)
   
- Keys pressed: `nano Li<tab>.java`, `<down>` 42 times, `<right>` 12 times, `<backspace>`, Type `2`, `<Ctrl>O`, `<enter>`, `<Ctrl>X`
+ Keys pressed: `nano Li<tab>.java`, `<down>` 42 times, `<right>` 12 times, `<backspace>`, Type `2`, `<Ctrl><O>`, `<enter>`, `<Ctrl><X>`
   
  After using the nano command, I made one edit to the .java file: changing index1 += 1 to index2 += 1. Then I saved this edit to the file and exited the nano window
   
  ## Step 8: Running the Tests, Demonstrating That They Succeed
   ![Screenshot 2023-02-27 174247](https://user-images.githubusercontent.com/110694499/221731509-109d841b-7811-474a-b1e2-03e9c0a2c5bc.jpg)
 
+Keys pressed: `<Ctrl><R>`,`javac - <enter>`, `<Ctrl><R>`, `java - <enter>`
