@@ -2,7 +2,7 @@
 By Stephanie Frianeza
 
 Competition Instructions:
-1. Setup Delete any existing forks of the repository you have on your account
+1. Delete any existing forks of the repository you have on your account
 2. Setup Fork the repository
 3. The real deal Start the timer!
 4. Log into ieng6
