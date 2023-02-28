@@ -42,6 +42,7 @@ I typed `javac Te<tab>` because I didn't have the javac command saved in my sear
  After using the nano command, I made one edit to the .java file: changing index1 += 1 to index2 += 1. Then I saved this edit to the file and exited the nano window
   
  ## Step 8: Running the Tests, Demonstrating That They Succeed
-  ![Screenshot 2023-02-27 174247](https://user-images.githubusercontent.com/110694499/221731509-109d841b-7811-474a-b1e2-03e9c0a2c5bc.jpg)
+  ![Screenshot 2023-02-27 181718](https://user-images.githubusercontent.com/110694499/221736137-7686e7e3-64aa-4b88-9715-04a25402dc5d.jpg)
+ 
 
 Keys pressed: `<Ctrl><R>`,`javac - <enter>`, `<Ctrl><R>`, `java - <enter>`
