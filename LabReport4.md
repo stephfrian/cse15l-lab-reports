@@ -46,3 +46,7 @@ I typed `javac Te<tab>` because I didn't have the javac command saved in my sear
  
 
 Keys pressed: `<Ctrl><R>`,`javac - <enter>`, `<Ctrl><R>`, `java - <enter>`
+
+ I used the reverse-i-search command <Ctrl><R> to search through my command history for the javac command that compiles my tester file. Then I used the same command to search for the javac command that runs my tester file. 
+  
+  ## Step 9: Committing and Pushing the Resulting Change to My Github Account 
