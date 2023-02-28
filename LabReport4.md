@@ -50,3 +50,8 @@ Keys pressed: `<Ctrl><R>`,`javac - <enter>`, `<Ctrl><R>`, `java - <enter>`
  I used the reverse-i-search command <Ctrl><R> to search through my command history for the javac command that compiles my tester file. Then I used the same command to search for the javac command that runs my tester file. 
   
   ## Step 9: Committing and Pushing the Resulting Change to My Github Account 
+![Screenshot 2023-02-27 182902](https://user-images.githubusercontent.com/110694499/221738031-5382e04b-896b-4879-826d-e38342405dea.jpg)
+  
+  Keys pressed: `git add ListExamples.java`, `git commit -m "Updated"`, `git push`
+  
+  I typed out the above commands (in order) within the terminal to commit and push the edits to ListExamples.java in my GitHub repository.
