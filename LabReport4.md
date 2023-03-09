@@ -24,7 +24,7 @@ The `ssh cs15lwi23agp@ieng6.ucsd.edu` was one up in the search history so I used
 
 Keys pressed/Typed: Typed `git clone git@github.com:stephfrian/lab7.git`, `<enter>`, `cd la<tab>`
 
-I didn't have the git clone command saved in my history, so I manually typed out the aforementioned command, copying and pasting the .git file from GitHub forked repository. I then cd'ed into the lab 7 directory using the <tab> key to autofill the name of the directory.
+I didn't have the `git clone` command saved in my history, so I manually typed out the aforementioned command, copying and pasting the .git file from GitHub forked repository. I then cd'ed into the lab 7 directory using the `<tab>` key to autofill the name of the directory.
 
 ## Step 6: Running the Tests, Demonstrating They Fail
 ![pasted image 0 (2)](https://user-images.githubusercontent.com/110694499/221438207-f68b4bf9-df62-4bcc-97c6-98402a12a1c6.png)
@@ -39,7 +39,7 @@ I typed `javac Te<tab>` because I didn't have the javac command saved in my sear
   
  Keys pressed/Type: `nano Li<tab>.java`, `<down>` 42 times, `<right>` 12 times, `<backspace>`, Type `2`, `<Ctrl><O>`, `<enter>`, `<Ctrl><X>`
   
- After using the `nano` command, I made one edit to the .java file: changing index1 += 1 to index2 += 1. Then I saved this edit to the file and exited the nano window.
+ After using the `nano` command, I made one edit to the .java file: changing `index1 += 1` to `index2 += 1`. Then I saved this edit to the file and exited the `nano` window.
  The command `<Ctrl><O>` allows you to specify a file name you can save those edits to, pressing `<enter>` saves the changes to that file, then `<Ctrl><X>` exits the `nano` window within the terminal. 
   
 ## Step 8: Running the Tests, Demonstrating That They Succeed
@@ -48,7 +48,7 @@ I typed `javac Te<tab>` because I didn't have the javac command saved in my sear
 
 Keys pressed/Typed: `<Ctrl><R>`,`javac - <enter>`, `<Ctrl><R>`, `java - <enter>`
 
- I used the reverse-i-search command `<Ctrl><R>` to search through my command history for the javac command that compiles my tester file. Then I used the same command to search for the javac command that runs my tester file. 
+ I used the reverse-i-search command `<Ctrl><R>` to search through my command history for the `javac` command that compiles my tester file. Then I used the same command to search for the `javac` command that runs my tester file. 
   
 ## Step 9: Committing and Pushing the Resulting Change to My Github Account
 ![Screenshot 2023-02-27 182902](https://user-images.githubusercontent.com/110694499/221738031-5382e04b-896b-4879-826d-e38342405dea.jpg)
