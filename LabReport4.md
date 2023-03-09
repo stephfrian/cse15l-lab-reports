@@ -17,7 +17,7 @@ Competition Instructions:
 
 Keys pressed/Typed: `<up><enter>`
 
-The `ssh cs15lwi23agp@ieng6.ucsd.edu' was one up in the search history so I used the up arrow once to access it, then pressed enter to log in. I didn't have to type in my password because I generated SSH Keys for ieng6.
+The `ssh cs15lwi23agp@ieng6.ucsd.edu` was one up in the search history so I used the up arrow once to access it, then pressed enter to log in. I didn't have to type in my password because I generated SSH Keys for ieng6.
 
 ## Step 5: Cloning Fork of the Repository From GitHub
 ![pasted image 0 (1)](https://user-images.githubusercontent.com/110694499/221438126-6b271d7f-88d3-403d-a254-16f878c29071.png)
@@ -31,7 +31,7 @@ I didn't have the git clone command saved in my history, so I manually typed out
   
 Keys pressed/Typed: `javac Te<tab>` `<enter>`
 
-I typed `javac Te<tab>` because I didn't have the javac command saved in my search history. I used the tab key after typing "Te" to autofill the TestListExamples.java file. Then I pressed "enter" to run the tests and demonstrate they fail.
+I typed `javac Te<tab>` because I didn't have the javac command saved in my search history. I used `<tab>` after typing "Te" to autofill the TestListExamples.java file. Then I pressed `<enter>` to run the tests and demonstrate they fail.
   
 ## Step 7: Editing the Code File to Fix the Failing Test
 ![pasted image 0 (3)](https://user-images.githubusercontent.com/110694499/221438289-d3db8456-9473-48a2-893d-2cc62296a108.png)
@@ -39,17 +39,18 @@ I typed `javac Te<tab>` because I didn't have the javac command saved in my sear
   
  Keys pressed/Type: `nano Li<tab>.java`, `<down>` 42 times, `<right>` 12 times, `<backspace>`, Type `2`, `<Ctrl><O>`, `<enter>`, `<Ctrl><X>`
   
- After using the nano command, I made one edit to the .java file: changing index1 += 1 to index2 += 1. Then I saved this edit to the file and exited the nano window.
+ After using the `nano` command, I made one edit to the .java file: changing index1 += 1 to index2 += 1. Then I saved this edit to the file and exited the nano window.
+ The command `<Ctrl><O>` allows you to specify a file name you can save those edits to, pressing `<enter>` saves the changes to that file, then `<Ctrl><X>` exits the `nano` window within the terminal. 
   
- ## Step 8: Running the Tests, Demonstrating That They Succeed
+## Step 8: Running the Tests, Demonstrating That They Succeed
   ![Screenshot 2023-02-27 181718](https://user-images.githubusercontent.com/110694499/221736137-7686e7e3-64aa-4b88-9715-04a25402dc5d.jpg)
  
 
 Keys pressed/Typed: `<Ctrl><R>`,`javac - <enter>`, `<Ctrl><R>`, `java - <enter>`
 
- I used the reverse-i-search command <Ctrl><R> to search through my command history for the javac command that compiles my tester file. Then I used the same command to search for the javac command that runs my tester file. 
+ I used the reverse-i-search command `<Ctrl><R>` to search through my command history for the javac command that compiles my tester file. Then I used the same command to search for the javac command that runs my tester file. 
   
-  ## Step 9: Committing and Pushing the Resulting Change to My Github Account 
+## Step 9: Committing and Pushing the Resulting Change to My Github Account
 ![Screenshot 2023-02-27 182902](https://user-images.githubusercontent.com/110694499/221738031-5382e04b-896b-4879-826d-e38342405dea.jpg)
   
   Keys pressed/Typed: `git add ListExamples.java`, `git commit -m "Updated"`, `git push`
