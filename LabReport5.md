@@ -101,10 +101,13 @@ The skyline of the capital rises higher and higher each year, glass and steel re
 
 *Description: This command searches for the next occurrence of a pattern within the file. For example, to search for the word "example", type /example while in less. To search for the next occurrence, simply press the n key. *
 
-The command
+> Example 1:
+
+The command:
 ```
 /Beijing
 ```
-while under `less Beijing-History.txt` yields
+while under `less Beijing-History.txt`, yields:
+![Screenshot 2023-03-11 143844](https://user-images.githubusercontent.com/110694499/224514635-e8b3c244-9a17-4396-bd81-d0421bfb3266.jpg)
 
 
