@@ -119,3 +119,15 @@ The command:
 after typing `less Athens-History.txt` in the terminal, yields:
 ![Screenshot 2023-03-11 144558](https://user-images.githubusercontent.com/110694499/224514866-f97a9749-3074-4250-bd49-8fdb36ca0977.jpg)
 
+## Option 3: `-N`
+
+*Description: This option starts less at the end of the file, rather than at the beginning. To use this option, type less -+G followed by the name of the file you want to view.*
+
+> Example 1:
+
+The command:
+```
+less -N Beijing-History.txt
+```
+yields:
+```
