@@ -143,4 +143,15 @@ yields:
 
 ![Screenshot 2023-03-11 151102](https://user-images.githubusercontent.com/110694499/224515580-277f9786-44e6-4dfc-b137-08c37e59e719.jpg)
 
+# Option 4: `:G`
+
+*Description: This command moves the cursor to the last line of the file.*
+
+> Example 1:
+
+The command:
+`:G`, while within the Beijing-History.txt file after using `less Beijing-History.txt`
+
+yields:
+
 
