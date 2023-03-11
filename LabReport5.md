@@ -131,7 +131,7 @@ less -N Beijing-History.txt
 ```
 yields:
 
-![Screenshot 2023-03-11 150635](https://user-images.githubusercontent.com/110694499/224515381-ba3e1552-a5f1-4150-ba3d-70f1508341d3.jpg)
+![Screenshot 2023-03-11 151237](https://user-images.githubusercontent.com/110694499/224515572-e3900fcb-4307-465f-9879-00550f4a32e1.jpg)
 
 > Example 2:
 
@@ -140,5 +140,7 @@ The command:
 less -N Athens-History.txt
 ```
 yields:
+
+![Screenshot 2023-03-11 151102](https://user-images.githubusercontent.com/110694499/224515580-277f9786-44e6-4dfc-b137-08c37e59e719.jpg)
 
 
