@@ -110,4 +110,11 @@ The command:
 while under `less Beijing-History.txt`, yields:
 ![Screenshot 2023-03-11 143844](https://user-images.githubusercontent.com/110694499/224514635-e8b3c244-9a17-4396-bd81-d0421bfb3266.jpg)
 
+> Example 2:
+
+The command:
+```
+/Athens
+```
+while under `less Athens-History.txt`, yields:
 
