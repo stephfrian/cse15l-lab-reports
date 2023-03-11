@@ -97,3 +97,4 @@ By the time of Deng<E2><80><99>s death in 1997, Beijing was firmly reshaping its
 The skyline of the capital rises higher and higher each year, glass and steel replace brick and mud in the old courtyards, cars replace carts in the streets, and computers replace abacuses in the schools. Today<E2><80><99>s Beijing would seem to have little in common with the Beihai lakeshore of Kublai Khan and Marco Polo, the Forbidden City of the Ming, the Summer Palace of the Qing, the Temple of Confucius, or even the patriotic tomb of Chairman Mao. But China<E2><80>  
 <99>s capital has not escaped the history that shaped it, be it ancient or modern. Visitors can still see both today.
 ```
+## Option 2: `:n`
