@@ -12,7 +12,7 @@ Source: ChatGPT https://chat.openai.com/chat
 
 The command 
 ```
-cat Algarve-Into.txt | less
+cat Algarve-Intro.txt | less
 ```
 
 yields:
