@@ -10,7 +10,7 @@ Source: ChatGPT https://chat.openai.com/chat
 
 > Example 1:
 
-The command 
+The command: 
 ```
 cat Algarve-Intro.txt | less
 ```
@@ -55,7 +55,7 @@ The command:
 cat Beijing-History.txt | less
 ```
 
-yields
+yields:
 ```
 A Brief History
 Beijing has frequently been at the center of Chinese history, from the rise and fall of dynasties to the recent triumphs and tragedies at Tiananmen Square. Each great phase left visible marks on Beijing, and the capital is a virtual museum devoted to the world<E2><80><99>s oldest continuous civilization.
