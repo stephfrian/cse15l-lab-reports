@@ -151,7 +151,7 @@ yields:
 
 ![Screenshot 2023-03-11 151237](https://user-images.githubusercontent.com/110694499/224515572-e3900fcb-4307-465f-9879-00550f4a32e1.jpg)
 
-**The line number for each sentence in the file is displayed on the left-hand side. This command is helpful for assigning a numerical value for the length of the file.**
+**The line number for each sentence in the file is displayed on the left-hand side. This command is helpful for assigning a numerical value to the length of the file.**
 
 > Example 2:
 
@@ -165,7 +165,7 @@ yields:
 
 ![Screenshot 2023-03-11 151102](https://user-images.githubusercontent.com/110694499/224515580-277f9786-44e6-4dfc-b137-08c37e59e719.jpg)
 
-**The line number for each sentence in the file is displayed on the left-hand side. This command is helpful for assigning a numerical value for the length of the file.**
+**The line number for each sentence in the file is displayed on the left-hand side. This command is helpful for assigning a numerical value to the length of the file.**
 
 # Option 4: `:G`
 
