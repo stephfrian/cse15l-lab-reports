@@ -130,6 +130,5 @@ The command:
 less -N Beijing-History.txt
 ```
 yields:
-```
 ![Screenshot 2023-03-11 150635](https://user-images.githubusercontent.com/110694499/224515381-ba3e1552-a5f1-4150-ba3d-70f1508341d3.jpg)
 
