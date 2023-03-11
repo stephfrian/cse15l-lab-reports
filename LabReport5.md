@@ -154,4 +154,13 @@ The command:
 
 yields:
 
+![Screenshot 2023-03-11 152011](https://user-images.githubusercontent.com/110694499/224515878-528276a5-11ca-4e86-a228-03e9663cc8d3.jpg)
+
+> Example 2:
+
+The command:
+`:G`, while within the Athens-History.txt file after using `less Athens-History.txt`
+
+yields:
+
 
