@@ -121,7 +121,7 @@ after typing `less Athens-History.txt` in the terminal, yields:
 
 ## Option 3: `-N`
 
-*Description: This option starts less at the end of the file, rather than at the beginning. To use this option, type less -+G followed by the name of the file you want to view.*
+*Description: This option displays line numbers on the left-hand side of the screen. To use this option, type less -N followed by the name of the file you want to view.*
 
 > Example 1:
 
@@ -131,3 +131,5 @@ less -N Beijing-History.txt
 ```
 yields:
 ```
+![Screenshot 2023-03-11 150635](https://user-images.githubusercontent.com/110694499/224515381-ba3e1552-a5f1-4150-ba3d-70f1508341d3.jpg)
+
