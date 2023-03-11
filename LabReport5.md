@@ -182,7 +182,7 @@ yields:
 
 ![Screenshot 2023-03-11 152011](https://user-images.githubusercontent.com/110694499/224515878-528276a5-11ca-4e86-a228-03e9663cc8d3.jpg)
 
-**The cursor is moved to the end of the file, as seen by the word "END" at the bottom of the terminal. This command helps save time to jump to the bottom of the file to type in a new command, rather then manually scrolling through the file with a mouse.**
+**The cursor is moved to the end of the file, as seen by the word "END" at the bottom of the terminal. This command helps you save time by jumping to the bottom of the file to let you type in a new command, rather then requiring you to manually scroll through the file.**
 
 > Example 2:
 
@@ -195,6 +195,6 @@ yields:
 
 ![Screenshot 2023-03-11 152556](https://user-images.githubusercontent.com/110694499/224516034-c52cd40e-e095-4c03-8c23-cb5c6416abc5.jpg)
 
-**The cursor is moved to the end of the file, as seen by the word "END" at the bottom of the terminal. This command helps save time to jump to the bottom of the file to type in a new command, rather then manually scrolling through the file with a mouse.**
+**The cursor is moved to the end of the file, as seen by the word "END" at the bottom of the terminal. This command helps you save time by jumping to the bottom of the file to let you type in a new command, rather then requiring you to manually scroll through the file.**
 
 
