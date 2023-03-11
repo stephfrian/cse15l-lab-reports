@@ -117,4 +117,5 @@ The command:
 /Athens
 ```
 while under `less Athens-History.txt`, yields:
+![Screenshot 2023-03-11 144558](https://user-images.githubusercontent.com/110694499/224514866-f97a9749-3074-4250-bd49-8fdb36ca0977.jpg)
 
