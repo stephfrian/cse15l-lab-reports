@@ -10,6 +10,8 @@ Source: ChatGPT https://chat.openai.com/chat
 
 > Example 1:
 
+After navigating to the correct directory by doing `cd skill-demo1-data/written_2/travel_guides/berlitz2` ,
+
 The command: 
 ```
 cat Algarve-Intro.txt | less
@@ -47,8 +49,11 @@ Besides beaches, the Algarve<E2><80><99>s major attractions are towns that lived
 Despite the region<E2><80><99>s ancient roots, few historic monuments survive from before 1755, when the Algarve was rocked by a monumental earthquake that took thousands of lives and leveled buildings as far north as Lisbon. Still, you<E2><80><99>ll find vestiges of a vibrant past, including evocative castle ruins and churches with extraordinary displays of Portuguese glazed tiles. Even the humblest village has a classic white church, a sleepy plaza shaded by vivid purple jacaranda, and, if you time it right, the drama of the local market.
 The Portuguese are famously hospitable, if reserved. And they remain tolerant and helpful, even though they know that their lovely coast is no longer just theirs.
 ```
+**The contents of the Algarve-Intro.txt file are printed to the terminal. This command is useful for quickly viewing any files within a directory using the terminal.**
 
 > Example 2:
+
+After navigating to the correct directory by doing `cd skill-demo1-data/written_2/travel_guides/berlitz2` ,
 
 The command:
 ```
@@ -97,33 +102,46 @@ By the time of Deng<E2><80><99>s death in 1997, Beijing was firmly reshaping its
 The skyline of the capital rises higher and higher each year, glass and steel replace brick and mud in the old courtyards, cars replace carts in the streets, and computers replace abacuses in the schools. Today<E2><80><99>s Beijing would seem to have little in common with the Beihai lakeshore of Kublai Khan and Marco Polo, the Forbidden City of the Ming, the Summer Palace of the Qing, the Temple of Confucius, or even the patriotic tomb of Chairman Mao. But China<E2><80>  
 <99>s capital has not escaped the history that shaped it, be it ancient or modern. Visitors can still see both today.
 ```
+
+**The contents of the Beijing-History.txt file are printed to the terminal. This command is useful for quickly viewing any files within a directory using the terminal.**
+
 ## Option 2: `/pattern`
 
 *Description: This command searches for the next occurrence of a pattern within the file. For example, to search for the word "example", type /example while in less.*
 
 > Example 1:
 
+After navigating to the correct directory by doing `cd skill-demo1-data/written_2/travel_guides/berlitz2` , then typing `less Beijing-History.txt`,
+
 The command:
 ```
 /Beijing
 ```
-after typing `less Beijing-History.txt` in the terminal, yields:
+yields:
 ![Screenshot 2023-03-11 143844](https://user-images.githubusercontent.com/110694499/224514635-e8b3c244-9a17-4396-bd81-d0421bfb3266.jpg)
 
+**All instances of the word "Beijing" are highlighted in white within the file. This command is helpful for searching within a file to see if a keyword exists.**
+
 > Example 2:
+
+After navigating to the correct directory by doing `cd skill-demo1-data/written_2/travel_guides/berlitz2` , then typing `less Athens-History.txt`,
 
 The command:
 ```
 /Athens
 ```
-after typing `less Athens-History.txt` in the terminal, yields:
+yields:
 ![Screenshot 2023-03-11 144558](https://user-images.githubusercontent.com/110694499/224514866-f97a9749-3074-4250-bd49-8fdb36ca0977.jpg)
+
+**All instances of the word "Athens" are highlighted in white within the file. This command is helpful for searching within a file to see if a keyword exists.**
 
 ## Option 3: `-N`
 
 *Description: This option displays line numbers on the left-hand side of the screen. To use this option, type less -N followed by the name of the file you want to view.*
 
 > Example 1:
+
+After navigating to the correct directory by doing `cd skill-demo1-data/written_2/travel_guides/berlitz2`,
 
 The command:
 ```
@@ -133,7 +151,11 @@ yields:
 
 ![Screenshot 2023-03-11 151237](https://user-images.githubusercontent.com/110694499/224515572-e3900fcb-4307-465f-9879-00550f4a32e1.jpg)
 
+**The line number for each sentence in the file is displayed on the left-hand side. This command is helpful for assigning a numerical value for the length of the file.**
+
 > Example 2:
+
+After navigating to the correct directory by doing `cd skill-demo1-data/written_2/travel_guides/berlitz2`, 
 
 The command:
 ```
@@ -143,26 +165,36 @@ yields:
 
 ![Screenshot 2023-03-11 151102](https://user-images.githubusercontent.com/110694499/224515580-277f9786-44e6-4dfc-b137-08c37e59e719.jpg)
 
+**The line number for each sentence in the file is displayed on the left-hand side. This command is helpful for assigning a numerical value for the length of the file.**
+
 # Option 4: `:G`
 
 *Description: This command moves the cursor to the last line of the file.*
 
 > Example 1:
 
+After navigating to the correct directory by doing `cd skill-demo1-data/written_2/travel_guides/berlitz2`, then typing `less Beijing-History.txt`
+
 The command:
-`:G`, while within the Beijing-History.txt file after using `less Beijing-History.txt`
+`:G` (while within the Beijing-History.txt file)
 
 yields:
 
 ![Screenshot 2023-03-11 152011](https://user-images.githubusercontent.com/110694499/224515878-528276a5-11ca-4e86-a228-03e9663cc8d3.jpg)
 
+**The cursor is moved to the end of the file, as seen by the word "END" at the bottom of the terminal. This command helps save time to jump to the bottom of the file to type in a new command, rather then manually scrolling through the file with a mouse.**
+
 > Example 2:
 
+After navigating to the correct directory by doing `cd skill-demo1-data/written_2/travel_guides/berlitz2`, then typing `less Athens-History.txt`
+
 The command:
-`:G`, while within the Athens-History.txt file after using `less Athens-History.txt`
+`:G`, (while within the Athens-History.txt file)
 
 yields:
 
 ![Screenshot 2023-03-11 152556](https://user-images.githubusercontent.com/110694499/224516034-c52cd40e-e095-4c03-8c23-cb5c6416abc5.jpg)
+
+**The cursor is moved to the end of the file, as seen by the word "END" at the bottom of the terminal. This command helps save time to jump to the bottom of the file to type in a new command, rather then manually scrolling through the file with a mouse.**
 
 
