@@ -99,7 +99,7 @@ The skyline of the capital rises higher and higher each year, glass and steel re
 ```
 ## Option 2: `/pattern`
 
-*Description: This command searches for the next occurrence of a pattern within the file. For example, to search for the word "example", type /example while in less. To search for the next occurrence, simply press the n key. *
+*Description: This command searches for the next occurrence of a pattern within the file. For example, to search for the word "example", type /example while in less.*
 
 > Example 1:
 
